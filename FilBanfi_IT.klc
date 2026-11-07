@@ -1,0 +1,158 @@
+KBD	FilBanfi_IT	"IT-Linux-dll"
+COPYRIGHT	"(c) 2026 FilBanfi"
+COMPANY	"FilBanfi"
+LOCALENAME	"it-IT"
+LOCALEID	"00000410"
+VERSION	1.0
+
+SHIFTSTATE
+
+0	//Column 4
+1	//Column 5 : Shft
+2	//Column 6 :       Ctrl
+6	//Column 7 :       Ctrl Alt (AltGr)
+7	//Column 8 : Shft  Ctrl Alt (AltGr+Shift)
+
+LAYOUT		;an extra '@' at the end is a dead key
+
+//SC	VK_		Cap	0	1	2	6	7
+02	1		0	0031	0021	-1	00b9	00a1
+03	2		0	0032	0022	-1	00b2	02dd
+04	3		0	0033	00a3	-1	00b3	007e
+05	4		0	0034	0024	-1	00bc	215b
+06	5		0	0035	0025	-1	20ac	215c
+07	6		0	0036	0026	-1	00ac	215d
+08	7		0	0037	002f	-1	007b	215e
+09	8		0	0038	0028	-1	005b	2122
+0a	9		0	0039	0029	-1	005d	00b1
+0b	0		0	0030	003d	-1	007d	02db
+0c	OEM_4		0	0027	003f	-1	0060	00bf
+0d	OEM_6		0	00ec	005e	-1	007e	005e
+10	Q		1	0071	0051	-1	0040	03a9
+11	W		1	0077	0057	-1	017f	00a7
+12	E		1	0065	0045	-1	20ac	00a2
+13	R		1	0072	0052	-1	00b6	00ae
+14	T		1	0074	0054	-1	0167	0166
+15	Y		1	0079	0059	-1	2190	00a5
+16	U		1	0075	0055	-1	2193	2191
+17	I		1	0069	0049	-1	2192	0131
+18	O		1	006f	004f	-1	00f8	00d8
+19	P		1	0070	0050	-1	00fe	00de
+1a	OEM_1		0	00e8	00e9	-1	005b	007b
+1b	OEM_PLUS	0	002b	002a	-1	005d	007d
+1e	A		1	0061	0041	-1	00e6	00c6
+1f	S		1	0073	0053	-1	00df	1e9e
+20	D		1	0064	0044	-1	00f0	00d0
+21	F		1	0066	0046	-1	0111	00aa
+22	G		1	0067	0047	-1	014b	014a
+23	H		1	0068	0048	-1	0127	0126
+24	J		1	006a	004a	-1	0309	031b
+25	K		1	006b	004b	-1	0138	0026
+26	L		1	006c	004c	-1	0142	0141
+27	OEM_3		0	00f2	00e7	-1	0040	00b8
+28	OEM_7		0	00e0	00b0	-1	0023	02da
+29	OEM_5		0	005c	007c	-1	00ac	00a6
+2b	OEM_2		0	00f9	00a7	-1	005c	007c
+2c	Z		1	007a	005a	-1	00ab	003c
+2d	X		1	0078	0058	-1	00bb	003e
+2e	C		1	0063	0043	-1	00a2	00a9
+2f	V		1	0076	0056	-1	201c	2018
+30	B		1	0062	0042	-1	201d	2019
+31	N		1	006e	004e	-1	00f1	00d1
+32	M		1	006d	004d	-1	00b5	00ba
+33	OEM_COMMA	0	002c	003b	-1	00b4	00d7
+34	OEM_PERIOD	0	002e	003a	-1	00b7	00a8
+35	OEM_MINUS	0	002d	005f	-1	00af	00f7
+39	SPACE		0	0020	0020	-1	0020	0020
+56	OEM_102	0	003c	003e	-1	00ab	00bb
+53	DECIMAL	0	002e	002e	-1	-1	-1
+
+KEYNAME
+
+01	Esc
+0e	Backspace
+0f	Tab
+1c	Enter
+1d	Ctrl
+2a	Shift
+36	"Right Shift"
+37	"Num *"
+38	Alt
+39	Space
+3a	"Caps Lock"
+3b	F1
+3c	F2
+3d	F3
+3e	F4
+3f	F5
+40	F6
+41	F7
+42	F8
+43	F9
+44	F10
+45	Pause
+46	"Scroll Lock"
+47	"Num 7"
+48	"Num 8"
+49	"Num 9"
+4a	"Num -"
+4b	"Num 4"
+4c	"Num 5"
+4d	"Num 6"
+4e	"Num +"
+4f	"Num 1"
+50	"Num 2"
+51	"Num 3"
+52	"Num 0"
+53	"Num Del"
+54	"Sys Req"
+57	F11
+58	F12
+7c	F13
+7d	F14
+7e	F15
+7f	F16
+80	F17
+81	F18
+82	F19
+83	F20
+84	F21
+85	F22
+86	F23
+87	F24
+
+KEYNAME_EXT
+
+1c	"Num Enter"
+1d	"Right Ctrl"
+35	"Num /"
+37	"Prnt Scrn"
+38	"Right Alt"
+45	"Num Lock"
+46	Break
+47	Home
+48	Up
+49	"Page Up"
+4b	Left
+4d	Right
+4f	End
+50	Down
+51	"Page Down"
+52	Insert
+53	Delete
+54	<00>
+56	Help
+5b	"Left Windows"
+5c	"Right Windows"
+5d	Application
+
+DESCRIPTIONS
+
+0409	The Linux Italian keyboard layout finally ported to Windows
+
+LANGUAGENAMES
+
+0409	Italian (Italy)
+
+ENDKBD
+
