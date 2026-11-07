@@ -9,9 +9,9 @@ The Linux Italian keyboard layout finally ported to Windows.
 
 | Base | Shift |
 | :---: | :---: |
-| ![Layout Base](resources/layout_base.png) | ![Layout Shift](resources/layout_shift.png) |
+| ![Layout Base](resources/layout_base.jpg) | ![Layout Shift](resources/layout_shift.jpg) |
 | **AltGr** | **Shift + AltGr** |
-| ![Layout AltGr](resources/layout_altgr.png) | ![Layout Shift+AltGr](resources/layout_altgr_shift.png) |
+| ![Layout AltGr](resources/layout_altgr.jpg) | ![Layout Shift+AltGr](resources/layout_altgr_shift.jpg) |
 
 ---
 
